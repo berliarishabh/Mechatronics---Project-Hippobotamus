@@ -4,22 +4,22 @@
 
 
 #### Front View
-[!front-view](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/FrontView.jpg?raw=true)
+![front-view](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/FrontView.jpg?raw=true)
 
 #### Back View
-[!back-view](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/BackView.jpg?raw=true)
+![back-view](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/BackView.jpg?raw=true)
 
 #### Bottom View
-[!bottomview](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/BottomView.jpg?raw=true)
+![bottomview](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/BottomView.jpg?raw=true)
 
 #### Top View
-[!topview](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/TopView.jpg?raw=true) 
+![topview](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/TopView.jpg?raw=true) 
 
 #### Shooter 
-[!shooter](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/Shooter.jpg?raw=true)
+![shooter](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/Shooter.jpg?raw=true)
 
 #### Vision System
-[!VisionSys](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/Vision%20System.jpg?raw=true)
+![VisionSys](https://github.com/berliarishabh/Mechatronics---Project-Hippobotamus/blob/master/Project%20Images/Vision%20System.jpg?raw=true)
 
 
 ###OBJECTIVE:
