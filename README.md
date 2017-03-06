@@ -1,5 +1,11 @@
 # Mechatronics---Project-Hippobotamus
 
+##### Team Members 
+Omkar Reddy 
+Heena R Aggarwal
+Louis Dankovich
+Rishabh Berlia
+
 ### Project Images
 
 
